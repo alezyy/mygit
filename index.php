@@ -24,5 +24,5 @@ a:hover { color: #333; text-decoration: none; }
 <img src="http://www.bonzinzin.ca/img/maintenance.jpg" alt="Maintenance" style="width:950px;height:628px">
 
 <div>
-<h4> The TEAM </h4>
+<h4> The TOP MENU TEAM </h4>
 </div>
